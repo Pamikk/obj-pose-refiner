@@ -1,0 +1,13 @@
+dataset_name: "linemod"
+cls_type: "phone"
+n_total_epoch: 20
+log_dir: "../../exp/ope_lm_refiner"
+use_render_data: False
+use_fuse_data: False
+wandb:
+  enable: False
+  log_imgs: True
+  project_name: "ope-lm-refiner-test"
+name: "df_15_ortho_2000_1000"
+description: >
+  Example training and evaluation for Linemod ape class

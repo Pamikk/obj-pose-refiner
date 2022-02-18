@@ -1,0 +1,4 @@
+*.pyc
+__pycache__/
+vis_out/
+.ipynb_checkpoints/
